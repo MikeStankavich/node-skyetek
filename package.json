@@ -1,0 +1,26 @@
+{
+  "name": "node-skyetek",
+  "version": "0.0.1",
+  "description": "Read tags from SkyeTek USB RFID reader",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeStankavich/node-skyetek.git"
+  },
+  "keywords": [
+    "skyetek",
+    "rfid"
+  ],
+  "author": "Mike Stankavich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeStankavich/node-skyetek/issues"
+  },
+  "homepage": "https://github.com/MikeStankavich/node-skyetek#readme",
+  "dependencies": {
+    "node-hid": "^0.5.1"
+  }
+}
